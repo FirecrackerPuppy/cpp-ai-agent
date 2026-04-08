@@ -1,0 +1,3 @@
+Result:
+Hello from file!
+This is your first file tool test.

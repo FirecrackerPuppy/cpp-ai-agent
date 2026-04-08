@@ -1,0 +1,20 @@
+# 可执行文件
+*.exe
+*.out
+
+# 编译中间文件
+*.o
+*.obj
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS Code
+.vscode/
+
+# 日志
+*.log
